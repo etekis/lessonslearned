@@ -30,7 +30,10 @@ Additional situationally dependent questions
 - Keep doing what you did to attract them
 - Develope a personal growth plan
 - Create a "programmer friendly" culture/vibe
-- Office and life perks
+- Offer Office and life perks
 - Offer flexibility in schedule and working locations
 - Allocate 80% of time to new features and 20% of time to fixing broken windows
 - Give recognition and experiences as rewards, not cash
+
+This is a cool image I found on Github - @etekis what do you think of this picture? @bcohen07 - let me know your thoughts!
++![Icons](https://github.com/MaxDZ8/M8M/blob/gh-pages/M8M-normal-states.gif) 
