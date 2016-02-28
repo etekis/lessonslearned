@@ -14,5 +14,5 @@
 #Back End ![node.js](http://nodejs-cloud.com/img/128px/nodejs.png)
 - This is the part of the SW stack that responds to request from the client side. It provides most of the essential functionality of connected SW.
 - There are multiple different languages and framework that developers use for back-end development:
-  - Languages: Python, Node.JS, Ruby are some of the most popular languages.
-  - Frameworks: Ruby on Rails (Ruby), Django (Python) and express (Node.JS) are some of the most popular frameworks.
+  - Languages: Python, JavaScript, Ruby are some of the most popular languages.
+  - Frameworks: Ruby on Rails (Ruby), Django (Python) and Node.JS+express (JavaScript) are some of the most popular frameworks.
