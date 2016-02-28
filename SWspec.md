@@ -2,8 +2,8 @@
 
 ##In the Beginning...
 When we want to specify software, there are a range of items we might want to consider:
-- OS the software is to run on
-- Feature list
+- **OS the software is to run on**: Think about who your target customers are, and what OS they are already using. Also think about when your users would want to use their software. At home (so maybe go with Mac or Windows) or on the go (iOS or Android)?
+- **Feature list**: What features are most essential to your customers’ interest in the product? These may be the features you look to include in your Minimal Viable Product (MVP).
 - Other functional software specifications (ex. how quickly does the software need to run?)
 - Non-functional software specifications (ex. how should the UI look and feel?)
 - Business goals
@@ -20,5 +20,5 @@ Incremental development can be managed with user stories and regular demos.
 Instead of big design upfront, we opt for 'specification by example,' where we come up with short stories describing the goals a user might want to achieve in using our software, and then handle all development to deliver on particular stories instead of tackling the entire project at once. Here is the format of a user story:
 > As a **type of user**, I want **some feature**, so that **some benefit**.
 
-We keep track of the stories we have completed, and what's still in the pipeline, using a 'kanban' board like the one pictured below
+As we start incremental development, we can focus on the user stories that are crucial to developing a Minimum Viable Product (MVP). We keep track of the stories we have completed, and what's still in the pipeline, using a 'kanban' board like the one pictured below
 ![kanban can](http://leankit.com/learn/wp-content/uploads/2015/11/kanban-board-e60650d1-1.jpg)
