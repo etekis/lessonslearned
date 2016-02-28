@@ -21,6 +21,9 @@ Additional situationally dependent questions
     1) Version control system
     2) Unit test tools
     3) Framework
+
+Another option, if you have the resources (cash) and need to build something quickly is to use an agency to hire developer talent for a specified project. This can be an especially good option if you have someone inhouse who can analyze code, but may not have the times/expertise to build it in house. When utilizing this option, look to pay on a per project/feature basis as opposed to a per hour basis to maximize the return on your capital spent.  Also, make sure to set up regular (weekly) demos through the agency to monitor progress and iterate or change course if necessary.
+
 3) Attracting 
 - Show your added value: Be credible and don't flake
 - Know your market inside out
