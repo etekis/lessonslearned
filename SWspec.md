@@ -18,7 +18,7 @@ The problem with big design upfront is that it forces you to make detailed decis
 Incremental development can be managed with user stories and regular demos.
 
 Instead of big design upfront, we opt for 'specification by example,' where we come up with short stories describing the goals a user might want to achieve in using our software, and then handle all development to deliver on particular stories instead of tackling the entire project at once. Here is the format of a user story:
-> As a <type of user>, I want <some feature> so that <some benefit>
+> As a **type of user**, I want **some feature**, so that **some benefit**.
 
 We keep track of the stories we have completed, and what's still in the pipeline, using a 'kanban' board like the one pictured below
 ![kanban can](http://leankit.com/learn/wp-content/uploads/2015/11/kanban-board-e60650d1-1.jpg)
